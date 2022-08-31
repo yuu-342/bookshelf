@@ -32,7 +32,7 @@ gem 'jbuilder', '~> 2.5'
 
 # ユーザー登録、Twitter認証で使うgem
 gem 'devise'
-gem 'omniauth', '<= 1.9.0'
+gem 'omniauth', '<= 1.10.0'
 gem 'omniauth-twitter'
 
 gem 'webpacker', github: 'rails/webpacker'
